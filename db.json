@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    },
+	{ 
+	  "id": 2,
+      "title": "World!"
+	},
+	{ 
+	  "id": 3,
+      "title": "Vasya!"
+	}
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 1,
+      "first_name": "Igor",
+      "last_name": "Vernik",
+      "email": [
+          "vernik@epam.com",
+	  "vernik228@epam.com"
+      ]
+    },
+    {
+      "id": 2,
+      "first_name": "Eugen",
+      "last_name": "Badcomedian",
+      "email": ["badcomedian@obzorshik.com"]
+    },
+    {
+      "id": 3,
+      "first_name": "Lily",
+      "last_name": "Rose",
+      "email": ["lily-rose@gmail.com"]
+    }
+  ]
+}
